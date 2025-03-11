@@ -17,7 +17,7 @@ Welcome to Big Rock Intelligence. We respect your privacy and are committed to p
 
 ## 4. How We Share Your Information
 - **Third-Party Services:** We may share data with trusted service providers (e.g., hosting companies, CRM platforms) to perform tasks on our behalf, subject to confidentiality obligations.
-- **Legal Compliance:** If required by law or to protect our rights, we may share information with law enforcement agencies or regulatory bodies.
+- **Legal Compliance:** If required by law or to protect our rights, we may share information with law enforcement agencies or regulatorIIIy bodies.
 - **Business Transfers:** If our company is involved in a merger, acquisition, or asset sale, your information may be transferred as part of that transaction.
 
 ## 5. Data Security
